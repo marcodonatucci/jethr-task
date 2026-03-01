@@ -281,7 +281,7 @@ export default function Home() {
       </section>
 
       {/* ── Content ── */}
-      <main className="flex-1 mx-auto w-full max-w-5xl px-5 -mt-4 pb-16">
+      <main className="relative flex-1 mx-auto w-full max-w-5xl px-5 -mt-4 pb-16">
         {/* ── Metric cards row ── */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           {/* Netto Mensile — primary */}
