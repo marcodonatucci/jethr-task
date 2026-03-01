@@ -36,7 +36,7 @@ export function calcolaContributiINPS(ral: number): number {
 
 const SCAGLIONI_IRPEF: { limite: number; aliquota: number }[] = [
     { limite: 28_000, aliquota: 0.23 },
-    { limite: 50_000, aliquota: 0.35 },
+    { limite: 50_000, aliquota: 0.33 },
     { limite: Infinity, aliquota: 0.43 },
 ];
 
