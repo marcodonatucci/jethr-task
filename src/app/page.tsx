@@ -190,7 +190,7 @@ export default function Home() {
             </span>
             <span className="h-4 w-px bg-border" />
             <span className="text-xs font-medium text-muted-foreground tracking-wide">
-              BR-Task 2026
+              PB-Task 2026
             </span>
           </div>
           <div className="flex items-center gap-1.5">
@@ -501,7 +501,7 @@ export default function Home() {
         <div className="flex flex-col items-center justify-center h-12 px-5">
           <span className="text-xs text-muted-foreground">
             <span className="font-semibold text-foreground/60">JetHR</span>
-            {" "}&middot; BR-Task 2026 &middot;{" "}
+            {" "}&middot; PB-Task 2026 &middot;{" "}
             <span className="text-[11px] text-muted-foreground/60">
               Calcoli a scopo indicativo
             </span>
