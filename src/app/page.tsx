@@ -328,7 +328,7 @@ export default function Home() {
                 )}
               </span>
               {computed && !loading && (
-                <span className="mt-2 text-xs text-emerald-600 font-medium">
+                <span className="mt-2 text-xs text-red-500 font-medium">
                   {coffeeMode ? "caffè all'anno" : `${trattenutePerc}% trattenute`}
                 </span>
               )}
